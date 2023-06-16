@@ -11,10 +11,10 @@ static
     - css
         - style.css
     - js
-        - script.js
+        - index.js
 templates
     - index.html
-    - post.html
-    - posts.html
+    - base.html
+    - navbar.html
 README.md
 ```
